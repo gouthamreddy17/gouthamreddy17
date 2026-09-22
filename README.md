@@ -6,7 +6,7 @@
 
 ## Skills
 - Python
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript,React,Flask
 - SQL
 - Git & GitHub
 
